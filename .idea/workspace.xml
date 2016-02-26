@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4fb13eef-e868-44d0-be21-5ff511bc3145" name="Default" comment="" />
+    <list default="true" id="4fb13eef-e868-44d0-be21-5ff511bc3145" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/posts/pandas_postgres.html" afterPath="$PROJECT_DIR$/posts/pandas_postgres.html" />
+    </list>
     <ignored path="kuancheng.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -64,8 +66,8 @@
       <file leaf-file-name="pandas_postgres.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/posts/pandas_postgres.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="2.9882007">
-              <caret line="225" column="103" selection-start-line="225" selection-start-column="103" selection-end-line="225" selection-end-column="103" />
+            <state vertical-scroll-proportion="0.79480165">
+              <caret line="268" column="36" selection-start-line="268" selection-start-column="36" selection-end-line="268" selection-end-column="36" />
               <folding>
                 <element signature="n#style#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -118,8 +120,8 @@
         <option value="$PROJECT_DIR$/js/clean-blog.js" />
         <option value="$PROJECT_DIR$/post.html" />
         <option value="$PROJECT_DIR$/about.html" />
-        <option value="$PROJECT_DIR$/posts/pandas_postgres.html" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/posts/pandas_postgres.html" />
       </list>
     </option>
   </component>
@@ -613,8 +615,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/posts/pandas_postgres.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="2.9882007">
-          <caret line="225" column="103" selection-start-line="225" selection-start-column="103" selection-end-line="225" selection-end-column="103" />
+        <state vertical-scroll-proportion="0.79480165">
+          <caret line="268" column="36" selection-start-line="268" selection-start-column="36" selection-end-line="268" selection-end-column="36" />
           <folding>
             <element signature="n#style#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
