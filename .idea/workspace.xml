@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4fb13eef-e868-44d0-be21-5ff511bc3145" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/posts/pandas_postgres.html" afterPath="$PROJECT_DIR$/posts/pandas_postgres.html" />
-    </list>
+    <list default="true" id="4fb13eef-e868-44d0-be21-5ff511bc3145" name="Default" comment="" />
     <ignored path="kuancheng.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -54,20 +51,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6771546">
+            <state vertical-scroll-proportion="-20.625">
               <caret line="90" column="82" selection-start-line="90" selection-start-column="82" selection-end-line="90" selection-end-column="82" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pandas_postgres.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="pandas_postgres.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/posts/pandas_postgres.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-6.6363635">
+            <state vertical-scroll-proportion="2.9882007">
               <caret line="225" column="103" selection-start-line="225" selection-start-column="103" selection-end-line="225" selection-end-column="103" />
               <folding>
                 <element signature="n#style#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -582,14 +579,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/about.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-16.5">
-          <caret line="57" column="0" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/post.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-19.916666">
@@ -606,21 +595,29 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-20.625">
+          <caret line="90" column="82" selection-start-line="90" selection-start-column="82" selection-end-line="90" selection-end-column="82" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-16.5">
+          <caret line="57" column="0" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/posts/pandas_postgres.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.6363635">
+        <state vertical-scroll-proportion="2.9882007">
           <caret line="225" column="103" selection-start-line="225" selection-start-column="103" selection-end-line="225" selection-end-column="103" />
           <folding>
             <element signature="n#style#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6771546">
-          <caret line="90" column="82" selection-start-line="90" selection-start-column="82" selection-end-line="90" selection-end-column="82" />
-          <folding />
         </state>
       </provider>
     </entry>
