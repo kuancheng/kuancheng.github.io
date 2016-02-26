@@ -91,9 +91,9 @@
                 <div class="post-heading">
                     <h1>Pandas and Postgres</h1>
                     <h2 class="subheading">
-                        How to transfer Pandas data frame into relational data base table?
+                        How to transfer Pandas data frame into relational database table?
                     </h2>
-                    <span class="meta">Posted by <a href="about.html">Kuan-Cheng</a> on February 25, 2016</span>
+                    <span class="meta">Posted by <a href="../about.html">Kuan-Cheng</a> on February 25, 2016</span>
                 </div>
             </div>
         </div>
@@ -110,7 +110,7 @@
                         Pandas
                     </a>
                     into tables stored into relational
-                    data base. Pandas is a very useful library provided by Python to help data analysts to wrangle with
+                    database. Pandas is a very useful library provided by Python to help data analysts to wrangle with
                     data. It is intuitive and
                     easy to learn.
                     <a href="https://vimeo.com/59324550" target="_blank">
@@ -135,7 +135,7 @@
 
                 <h2 class="section-heading">Make it easy with Pandas!?</h2>
                 <p>
-                    Back to our topic, I used to insert data line by line into relational data base, which I
+                    Back to our topic, I used to insert data line by line into relational database, which I
                     think it is not pretty efficient and you need write a big chunk of SQL codes like the following code
                     snippets, let alone
                     you need to wrangle with data at the same time. Hence, you can expect your codes will become pretty
@@ -173,7 +173,7 @@
                     </pre>
 
                 However, Pandas provides a handy method for people to easily and smoothly transfer data into relation
-                data base which is
+                database which is
                 <a href="http://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.to_sql.html"
                    target="_blank">
                     to_sql.
@@ -198,7 +198,7 @@
                      username: kuan
                      password: 1234
                      host: localhost
-                     port: 5432 (port number to connect to postgres data base is 5432,
+                     port: 5432 (port number to connect to postgres database is 5432,
                        different vendors may use different port number)
                      database: mydb
                     '''
@@ -210,8 +210,8 @@
                     df = pd.read_csv("your/directory/data.csv)
 
                     '''
-                     name: table name in your data base
-                     con: connection you created to your data base
+                     name: table name in your database
+                     con: connection you created to your database
                      schema: specify if you want to insert data to
                         certain schema instead of default one
                      if_exists: it will append the table if the table
@@ -223,7 +223,7 @@
                 </pre>
                 It is so pretty easy right!? I think it incredibly reduces the amount of codes and make your
                 applications neat and easy to read and follow. Only thing I think need to be careful
-                is to correctly connect to data base. Once you have no problem connect to your data base, Pandas will
+                is to correctly connect to database. Once you have no problem connect to your database, Pandas will
                 magically take care of the other stuff!. Alright, see you next time and happy coding!
 
 
